@@ -1,7 +1,8 @@
-### Hi 我是Mao
+### Hi 我是 Mr.Mao
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TuiMao233.TuiMao233)
 
+- 🌱 I’m currently learning ...
 
 **社区主页**  
 
