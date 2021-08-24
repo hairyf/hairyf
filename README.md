@@ -17,14 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
-<div style="position: absolute; right: 0; top: 0;">
- <img src="https://github-readme-stats.vercel.app/api?username=TuiMao233" />
-</div>
-
-<div>
 [![TuiMao233's github stats](https://github-readme-stats.vercel.app/api?username=TuiMao233)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **TuiMao233/TuiMao233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
