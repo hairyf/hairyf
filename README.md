@@ -7,7 +7,7 @@
 **社区主页**  
 
 - [掘金](https://juejin.cn/user/1099167361152967)
-- [blog](https://tuimao233.gitee.io/mao-blog)
+- [blog](https://hairy.blog/)
 
 **擅长:**  
 
