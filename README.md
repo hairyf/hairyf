@@ -1,6 +1,6 @@
 ### Hi, I am Mr.Mao
 
-![](https://visitor-badge.glitch.me/badge?page_id=TuiMao233.TuiMao233)
+![](https://visitor-badge.glitch.me/badge?page_id=hairyf.hairyf)
 
 - 🌱 I’m currently learning ...
 
@@ -17,11 +17,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-| <a href="https://github.com/TuiMao233/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TuiMao233&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TuiMao233/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuiMao233&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/hairyf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hairyf&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hairyf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairyf&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
-**TuiMao233/TuiMao233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hairyf/hairyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
