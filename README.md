@@ -1,8 +1,8 @@
-<h2>
+<h3>
   <span>Hi, I am Hairyf</span>
   - 
   <a style="font-size: 14px" href="https://hairy.blog/">Hairy's Blog</a>
-</h2>
+</h3>
 
 - 🔭 I’m currently working and learning ...
 
