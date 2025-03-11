@@ -49,4 +49,7 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img alt="nodejs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   </a>
+  <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
+    <img alt="nodejs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+  </a>
 </p>
