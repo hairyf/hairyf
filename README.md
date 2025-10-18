@@ -6,8 +6,11 @@
 
 - 🔭 I’m currently working and learning ...
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hairyf&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairyf&layout=compact&hide_border=true&hide=javascript,css" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hairyf&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairyf&layout=compact&hide_border=true&hide=javascript,css" /></a>
+<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hairyf&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hairyf&layout=compact&hide_border=true&hide=javascript,css" /></a> |
+| ------------- | ------------- | -->
 
 <!-- | <img width="469px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hairyf&hide_border=true" /> | <img width="380px" align="center" src="https://metrics.lecoq.io/hairyf?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&traffic=false&config.timezone=Asia%2FShanghai" /> |
 | ------------- | ------------- | -->
