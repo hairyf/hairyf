@@ -1,7 +1,6 @@
 <h3>
   <span>Hi, I am Hairyf</span>
-  - 
-  <a style="font-size: 14px" href="https://hairy.blog/">Hairy's Blog</a>
+  <a style="font-size: 14px" href="https://valaxy-blog-henna.vercel.app/">Hairy's Blog</a>
 </h3>
 
 - 🔭 I’m currently working and learning ...
