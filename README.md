@@ -54,4 +54,19 @@ Here are some ideas to get you started:
   <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
     <img alt="nodejs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
   </a>
+  <a href="https://hardhat.org" target="_blank" rel="noreferrer">
+    <img alt="hardhat" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg">
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img alt="nestjs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg">
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img alt="nextjs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img alt="prisma" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img alt="mysql" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </a>
 </p>
