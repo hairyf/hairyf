@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" /></code>
 
 ### Frameworks and Tools
 
